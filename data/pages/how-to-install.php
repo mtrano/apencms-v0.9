@@ -8,7 +8,7 @@
   <li> Give chmod 777 or 755 ( full read &amp; write ) permissions for “data/pages” and “data/areas” folders and “data/pagesdata.txt” file. </li>
   <li> These permissions are required as contents &amp; configs are written to these files/folders. </li>
   <li> Thats it. Log into your admin panel by opening the page &#039;data/nanoadmin.php&#039;. </li>
-  <li> Default login info user=admin, pass=demo can be changed using the Admin Panel. </li>
+  <li> Default login info user=admin, pass=admin can be changed using the Admin Panel. </li>
   <li> Optionally, you can also change the save file extensions and other configs by editing “data/config.php”. </li>
 </ul>
 <h2>How to use?</h2>
