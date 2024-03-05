@@ -1,5 +1,3 @@
-https://apencms.com/data/uploads/Apencms_banner_cookies.jpg
-
 <h1>Welcome to APENCMS!</h1>
 Discover the simplicity and functionality of APENCMS v0.9 - the lightweight and easy-to-use content management system for creating fully responsive and bootstrap websites.
 
