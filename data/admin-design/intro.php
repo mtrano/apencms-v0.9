@@ -9,6 +9,7 @@
   <li>Tweakers are plugin-like tools which can be used to tweak the APENCMS without having to modify the core files.<br />
     New functionalities and facilities can easily be added to APENCMS.</li>
 </ul>
+	
 <h2 class="noborder">&raquo; How to create new pages?</h2>
 <ul>
 		<li>Click on 'Add page'</li>
