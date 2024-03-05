@@ -1,14 +1,4 @@
-APENCMS 0.9
-
-- copy the files on a folder in your server; 
-- care to have PHP 5.5 or higher running;
-- go to your_domain/install_folder/
-
-- user name: admin
-- password: admin
-
-
-<h2>How to install APENCMS</h2>
+<h2>How to install APENCMS v0.9</h2>
 <ul>
   <li>Simply extract the files and folders to your Hard Drive, and then upload them to the correct folder on your website host. </li>
   <li> Thats it. APENCMS is installed!!!!!. </li>
